@@ -1,1 +1,1 @@
-Some text
+Fixed text file
